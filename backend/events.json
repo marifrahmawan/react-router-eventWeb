@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"w2asdasd","image":"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F538129399%2F137147299594%2F1%2Foriginal.20230618-100901?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=28894d879c0a629e02cc02b203c2f5f3","date":"2023-09-15","description":"asdasdasdasd","id":"d2591f97-d509-49ca-ba06-5f9366e79312"},{"title":"123123123","image":"https://www.adobe.com/content/dam/www/us/en/events/overview-page/eventshub_evergreen_opengraph_1200x630_2x.jpg","date":"2023-09-19","description":"asdasdasdasdasdasd","id":"945dcbbf-3ef7-496e-8c04-22d6ac1b5199"},{"title":"asdadasd","image":"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F538129399%2F137147299594%2F1%2Foriginal.20230618-100901?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=28894d879c0a629e02cc02b203c2f5f3","date":"2023-09-22","description":"  console.log(title);\n","id":"1eb10926-4daf-4654-af00-1d984daa7783"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
